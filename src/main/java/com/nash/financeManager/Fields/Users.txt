@@ -1,0 +1,7 @@
+When creating a user(JSON tester):
+
+    {
+        "username": "Zash",
+        "email": "ash@gmail.com",
+        "password": "ash360#"
+    }
